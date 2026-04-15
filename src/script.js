@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Love Epiphany</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Reality Club</div>
 
 <div class="player">
 <div class="topRow">
