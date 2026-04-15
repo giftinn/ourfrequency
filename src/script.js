@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,13 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+I’m writing this because i want the whole world or at least this corner of the internet to know how much you mean to me.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+Before you came along, things felt a little bit gray. But ever since you stepped into my life, it’s like you brought a whole palette of colors with you. Every single day feels bright and worth living just because i have you by my side.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+I honestly don’t say this enough, but I love you so, so much. Thank you for being my reason to smile every morning and for making my life so much more colorful. You’re my favorite song, the one I never want to stop playing.
 
-But like late night radio waves that stay playing even when the world sleeps.
 
-END SIGNAL
 <span class="signal">END SIGNAL</span>
 
 </div>
